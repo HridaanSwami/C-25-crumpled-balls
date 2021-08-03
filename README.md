@@ -1,1 +1,1 @@
-# C-25-crumpled-balls
+# CP-2
